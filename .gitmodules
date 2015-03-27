@@ -1,0 +1,3 @@
+[submodule "ios-competency-test/Alamofire"]
+	path = ios-competency-test/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
